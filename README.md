@@ -42,6 +42,8 @@ I build products that combine:
 - memory architectures
 - reasoning workflows
 - knowledge graphs
+- distributed systems and P2P networks  
+- blockchain and token economies  
 - adaptive learning systems
 
 </td>
@@ -449,6 +451,21 @@ Balansis is based on:
 `Postman` · `Insomnia` · `Environment Management` · `Deployment Pipelines`
 
 ---
+## 🌐 Web3 / Blockchain / Distributed Systems
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-Decentralized%20Apps-8e44ad?style=flat-square)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-Finance%20Protocols-f39c12?style=flat-square)
+![Crypto Trading](https://img.shields.io/badge/Crypto%20Trading-Market%20Signals-e74c3c?style=flat-square)
+![P2P](https://img.shields.io/badge/P2P-Networks-2980b9?style=flat-square)
+
+`Web3` · `Blockchain Architecture` · `Smart Contracts` · `Solidity`  
+`ERC-20` · `ERC-721` · `ERC-1155` · `Token Launching` · `Tokenomics`  
+`IPFS` · `CID` · `Content Addressing` · `Pinning`  
+`P2P` · `libp2p` · `DHT`  
+`Crypto Trading` · `DEX` · `Liquidity` · `Market Signals`
 
 ## 🤖 Automation / Agents / Integrations
 
