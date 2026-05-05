@@ -275,9 +275,9 @@ VilaviAI is included as a separate product direction focused on practical AI usa
 
 | Project Direction | Area | Status |
 |---|---|---|
-| 🖥 Fullstack Web Platforms | Frontend, backend, APIs, admin panels | Active / Delivered |
-| 📊 Analytics Dashboards | Data visualization, reporting, internal tools | Active / Delivered |
-| 🗄 Database Systems | PostgreSQL schemas, data models, storage logic | Active / R&D |
+| 🖥 Fullstack Web Platforms | Frontend, backend, APIs, admin panels | Delivered |
+| 📊 Analytics Dashboards | Data visualization, reporting, internal tools | R&D / Delivered |
+| 🗄 Database Systems | PostgreSQL schemas, data models, storage logic | R&D |
 | 🔎 Search & Retrieval Systems | Vector search, semantic search, filtering logic | Active / R&D |
 
 These projects focus on practical engineering: from database design and backend logic to user-facing interfaces, dashboards and automation layers.
