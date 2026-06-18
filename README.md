@@ -27,7 +27,7 @@ Building intelligent systems at the intersection of
 
 ## 🚀 About Me
 
-I’m an **R&D Chief, Senior Developer, Product/Project Manager and CTO of StudyNinja**.
+I’m an **R&D, Senior Developer, Product/Project Manager and CTO of StudyNinja**.
 
 I build products that combine:
 
