@@ -86,7 +86,6 @@ I also explore and build **HR-oriented AI agents** that can support:
 graph TD
     A[Beefboy35 / R&D Core] --> B[StudyNinja]
     A --> C[KnowledgeBaseAI]
-    A --> D[XTeam AVA]
     A --> E[HR Agent]
     A --> F[MAGIC / MagicWorld]
     A --> G[Balansis]
@@ -182,34 +181,6 @@ flowchart LR
 | Intelligent Search | Finds meaning, not just keywords |
 | Process Knowledge | Connects documents, tasks, people and workflows |
 | HR Knowledge Support | Helps employees navigate internal processes |
-
----
-
-## ⚙️ XTeam AVA
-
-> **Accelerated Value Agent — AI business agent for process analysis.**
-
-XTeam AVA helps businesses quickly understand where AI can create measurable value.
-
-### AVA analyzes
-
-- current business processes;
-- repetitive operations;
-- automation opportunities;
-- potential AI integrations;
-- ROI from automation;
-- agent-based workflows;
-- implementation roadmaps.
-
-### AVA Output
-
-| Input | Output |
-|---|---|
-| Business process description | Automation map |
-| Employee routine tasks | AI/RPA opportunities |
-| Current workflow | Bottleneck analysis |
-| Company goals | AI implementation roadmap |
-| Cost/time data | ROI estimation |
 
 ---
 
@@ -583,7 +554,6 @@ I believe that strong systems are built at the intersection of:
 |---|---:|---:|---:|---|
 | 🥷 **StudyNinja** | Applied Intelligence | High | High | Adaptive learning, AI tutors, personalized education |
 | 🧩 **KnowledgeBaseAI** | Applied Intelligence / Future Core | High | High | Knowledge graphs, AI memory, corporate knowledge systems |
-| ⚙️ **XTeam AVA** | Automation Engine | Very High | Medium | Business process analysis, ROI, AI implementation roadmaps |
 | 🧑‍💼 **HR Agent** | Automation Engine | High | Medium | Recruiting, onboarding, internal HR support |
 | 🧬 **VilaviAI** | Applied Intelligence | High | Medium-High | AI-assisted product and business automation direction |
 | 🌐 **Fullstack Web Platforms** | Utility Layer | Medium | Low-Medium | Web apps, admin panels, portals, business interfaces |
@@ -611,7 +581,6 @@ I believe that strong systems are built at the intersection of:
 |---|---|
 | 🥷 StudyNinja MVP | Active development |
 | 🧩 KnowledgeBaseAI | Architecture and product packaging |
-| ⚙️ XTeam AVA | Business automation use cases |
 | 👥 HR Agent | Concept and automation scenarios |
 | 🧬 VilaviAI | AI product direction |
 | 🖥 Fullstack Web Platforms | Engineering / delivery |
