@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.png">
-  <img src="assets/hero-motion.gif" alt="Intelligence, made practical. Research · Architecture · Delivery." width="1200">
-</picture>
+![Intelligence, made practical. Research · Architecture · Delivery.](./hero-motion.gif)
+
 
 # Beefboy35
 
