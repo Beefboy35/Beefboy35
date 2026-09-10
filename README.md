@@ -27,11 +27,11 @@ A headless graph platform designed for connected knowledge, intelligent retrieva
 Fullstack platforms, analytics dashboards and integrations; HR Agent concepts for recruiting and onboarding, plus the VilaviAI product direction.
 
 <details>
-<summary><b>Explore the research · MAGIC & Balansis</b></summary>
+<summary><b>Explore the research · MAGIC & CognitiveScientificGraphAI</b></summary>
 
 **MAGIC / MagicWorld** explores human–AI collaboration through shared memory, connected knowledge and cooperating agents.
 
-**Balansis** is an experimental computation project exploring Absolute Compensation Theory and the Zero-Sum Theory of Infinities.
+**[CognitiveScientificGraphAI ↗](https://github.com/Beefboy35/CognitiveScientificGraphAI)** turns scientific papers into a weighted graph of claims and evidence. Hybrid search, answers linked to sources and interactive 3D exploration make connections, contradictions and limitations visible.
 
 </details>
 
