@@ -67,7 +67,7 @@ Hardest part wasn't the plumbing — it was the relevance/level tradeoff. Too mu
 **Build:** Python · FastAPI · Django · Go · TypeScript · React  
 **Data:** PostgreSQL · ClickHouse · Redis · MongoDB · Neo4j (Cypher) · Qdrant · Elasticsearch  
 **Streams:** Kafka · RabbitMQ · ARQ · NSQ  
-**AI / ML:** PyTorch · RAG · OpenAI · OpenRouter · LangGraph · ONNX 
+**AI / ML:** PyTorch · RAG · OpenAI · OpenRouter · LangGraph · ONNX   
 **Ship:** Docker · Kubernetes · gRPC · Traefik · GitHub Actions · Prometheus · Grafana · Kibana · Sentry · n8n
 
 ---
